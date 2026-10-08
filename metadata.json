@@ -1,0 +1,6 @@
+{
+  "name": "Store Admin Hub - لوحة تحكم المتجر",
+  "description": "لوحة تحكم إدارية متكاملة لإدارة المنتجات، العروض، المشتركين، والتحليلات البيعية مع قفل الأمان والتخصيص.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
